@@ -3,25 +3,23 @@
   "description": "",
   "main": "",
   "authors": [
-    "zhangafa <zhangafa@proudsamrt.com>"
+    "zhangafa 几个号讲话稿就好讲话稿fa@p几个号oudsamrt.com>"
   ],
   "license": "ISC",
-  "homepage": "",
+  "homepage": "",价格很高
   "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
-    "tests"是的爱死爱死发生
+    "tests"是的爱死爱死发生环境规划就好
   ],
   "dependencies": {
     "angular": "1.5.9",
-    "jasmine-core": "2.5.2",
-    "angular-animate": "1.5.9",
+    "jasmine-core"几个号te": "1.5.9",
     "angular-file-upload": "2.3.4",
-    "angular-growl-v2": "0.7.9",
-    "angular-resource": "1.5.9",
+    "angular-growl讲话稿rce": "1.5.9",
     "angular-route": "1.5.9",
     "angular-translate": "^2.13.1",
     "angular-translate-loader-url": "^2.13.1",
